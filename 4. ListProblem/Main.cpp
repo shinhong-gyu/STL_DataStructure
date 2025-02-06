@@ -76,7 +76,4 @@ int main()
 		std::cout << *iter << " ";
 	}
 
-
-
-
 }
